@@ -1,0 +1,34 @@
+# golang 安裝時間太長, 造成失敗, 改以 python 安裝
+# https://docs.travis-ci.com/user/deployment/pages/
+# https://docs.travis-ci.com/user/languages/python/
+
+language: python
+
+python:
+    - "3.6"
+
+install:
+    - uname -a
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.49/hugo_0.49_Linux-64bit.deb
+    - sudo dpkg -i hugo*.deb
+    - hugo version
+    - ls
+    - pwd
+
+script:
+  - hugo # This commands builds your website on travis
+
+deploy:
+  skip-cleanup: true # 重要, 不能省略
+  keep-history: true # 是否保持 target-branch 分支的提交記錄
+  verbose: true
+  provider: pages # 重要, 指定這是一份 github pages 的部署配置
+  repo: h2g/h2g.github.io
+  local-dir: public # 靜態站點文件目錄
+  target_branch: master # 欲將靜態站點文件, 發佈到目標分支
+  fqdn: joy.nctu.me # 如有自定義域名, 填此
+  name: $GITHUB_USERNAME
+  email: $GITHUB_EMAIL
+  github-token: $GITHUB_TOKEN # 重要, 變數, 需要在 GitHub 上申請, 再配置到 Travis
+  on:
+    branch: master # 源碼的分支  
