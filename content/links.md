@@ -50,11 +50,17 @@ mathjax: true
 
 ### <a href="https://qr.ioi.tw/zh/" target="_blank">二維條碼 QR Code 產生器</a>
 
-### <a href="https://www.favicon.cc/" target="_blank">favicon 編輯</a>
+### <a href="https://www.favicon.cc/" target="_blank">favicon 編輯 - 直接點繪 16x16</a>
 
-### <a href="http://www.aigei.com/bgremover" target="_blank">圖片去背</a>
+### <a href="http://tw.faviconico.org/" target="_blank">favicon 製作 - 16,32,48,64,128</a>
+
+### <a href="https://www.aconvert.com/tw/" target="_blank">檔案轉換-影,音,圖,文,ico</a>
 
 ### <a href="https://mp3cut.net/tw/" target="_blank">影音分割合併轉換</a>
+
+### <a href="https://pixlr.com/editor/" target="_blank">線上繪圖 Pixlr Editor</a>
+
+### <a href="http://www.aigei.com/bgremover" target="_blank">圖片去背</a>
 
 ### <a href="https://pdf.io/tw/" target="_blank">pdf 分割壓縮轉換</a>
 

@@ -13,7 +13,7 @@ mathjax: true
 ---
 
 ## 常常喜樂
-![](/images/joy-qrcode.png "二維條碼")
+![](/images/qrcode-joy.png "常常喜樂網址二維條碼")
 
 ## 引自聖經: 帖撒羅尼迦前書 5:16-18 及 腓立比書 4:4
 
