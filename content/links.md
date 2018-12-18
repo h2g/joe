@@ -26,7 +26,15 @@ mathjax: true
 
 ### <a href="https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1" target="_blank">CBOL 新約 Parsing 系統</a>
 
+### <a href="http://www.chioulaoshi.org/BH/index.html" target="_blank">聖經希伯來文</a>
+
 ### <a href="http://hebrew.fhl.net/" target="_blank">希伯來文教室</a>
+
+### <a href="http://bible.ort.org/intro1.asp?lang=1" target="_blank">Hebrew Bible with Audio</a>
+
+### <a href="http://a2z.fhl.net/bible/greek/greek.html" target="_blank">希臘文教室</a>
+
+### <a href="http://www.belovedhome.org/greekcourse.htm" target="_blank">希臘文初階課程</a>
 
 ### <a href="http://www.chioulaoshi.org/BGreek/index.html" target="_blank">新約希臘文</a>
 
