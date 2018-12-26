@@ -1,5 +1,5 @@
 ---
-title: "Hebrew 學習筆記 0001"
+title: "Hebrew 學習筆記 0001 字母"
 date: 2018-12-17T14:21:20+08:00
 lastmod: 2018-12-17T14:21:20+08:00
 draft: false
@@ -12,7 +12,7 @@ author: "常常喜樂"
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 comment: false
-toc: true
+toc: false
 autoCollapseToc: true
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: false
@@ -20,7 +20,7 @@ reward: false
 mathjax: false
 ---
 
-### [希伯來文字母]
+### 希伯來文字母
 - `從右到左`  
 - 有 22 個子音  
 - 強弱用字中有無點表示  

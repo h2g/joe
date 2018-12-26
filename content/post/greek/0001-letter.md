@@ -1,7 +1,7 @@
 ---
-title: "Greek 學習筆記 0001"
+title: "Greek 學習筆記 0001 字母"
 date: 2018-12-18T14:21:20+08:00
-lastmod: 2018-18-17T14:21:20+08:00
+lastmod: 2018-12-18T14:21:20+08:00
 draft: false
 keywords: ["Greek"]
 description: ""
@@ -12,7 +12,7 @@ author: "常常喜樂"
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 comment: false
-toc: true
+toc: false
 autoCollapseToc: true
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: false
@@ -20,7 +20,7 @@ reward: false
 mathjax: false
 ---
 
-### [希臘文字母]
+### 希臘文字母
 - 有 24 個  
 - [全部字母朗讀 by 已故新約神學博士 Dr. Degner](/mp3-greek/g00.mp3 "全部字母朗讀")
 
