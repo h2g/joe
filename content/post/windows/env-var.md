@@ -6,13 +6,13 @@ draft: false
 keywords: ["Windows", "環境變數"]
 description: ""
 tags:  ["Windows", "環境變數"]
-categories: [""]
+categories: ["Windows"]
 author: "常常喜樂"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 comment: false
-toc: false
+toc: true
 autoCollapseToc: true
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: false

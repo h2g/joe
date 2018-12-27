@@ -1,18 +1,18 @@
 ---
-title: "Greek 學習筆記 0002 信實的"
+title: "Greek 學習筆記 - 信實的"
 date: 2018-12-26T14:21:20+08:00
 lastmod: 2018-12-26T14:21:20+08:00
 draft: false
-keywords: ["Greek", "林前" ]
+keywords: ["Greek", "哥林多前書" ]
 description: ""
-tags:  ["Greek", "林前"]
+tags:  ["Greek", "哥林多前書"]
 categories: ["Greek"]
 author: "常常喜樂"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 comment: false
-toc: false
+toc: true
 autoCollapseToc: true
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: false
@@ -26,10 +26,10 @@ mathjax: false
 > # `神是信實的`，你們原是被他所召，好與他兒子─我們的主耶穌基督一同得分。  
 > # `πιστὸς ὁ θεὸς` δι’ οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.  
 
-# 信實的 ( πιστὸς ) {發音 pis-tos'}  
-# 神  
-# - 定冠詞 ( ὁ ) {發音 ho}  
-# - ( θεὸς ) {發音 theh'-os}  
+# 信實的 ( πιστὸς ) {發音 pis-tos'}
+# 神
+# - 定冠詞 ( ὁ ) {發音 ho}
+# - ( θεὸς ) {發音 theh'-os}
 
 ---
 
