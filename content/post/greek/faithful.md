@@ -1,5 +1,5 @@
 ---
-title: "Greek 學習筆記 - 信實的"
+title: "Greek 筆記 - 信實的"
 date: 2018-12-26T14:21:20+08:00
 lastmod: 2018-12-26T14:21:20+08:00
 draft: false
@@ -12,7 +12,7 @@ author: "常常喜樂"
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
 comment: false
-toc: true
+toc: false
 autoCollapseToc: true
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: false
