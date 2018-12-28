@@ -20,7 +20,7 @@ reward: false
 mathjax: false
 ---
 
-# ( אָמֵ֥ן ) 
+# ( אֱמָ֔ן ) 
 
 > # 申命記 7:9  
 > # 所以，你要知道耶和華─你的神，`他是神，是信實的神`；向愛他、守他誡命的人守約，施慈愛，直到千代；  
@@ -32,7 +32,7 @@ mathjax: false
 # - ( `הָ`אֱלֹהִ֑ים ) {發音 e-lo:-hi:m'}
 # - ( `הָ`אֵל֙ ) {發音 e:l}
 # 他是神 ( ה֣וּא `הָ`אֱלֹהִ֑ים )
-# 信實, 信實的 ( אָמֵ֥ן ) {發音 a:-m:n'}
+# 信實, 信實的 ( אֱמָ֔ן ) {發音 a:-m:n'}
 # 他是信實的神 ( `הָ`אֵל֙  `הַֽנֶּ`אֱמָ֔ן )
 # - 冠詞(`הָ`) + 三單陽 Niphal
 # - Niphal (被動或反身) 動詞分詞
@@ -41,6 +41,6 @@ mathjax: false
 
 ---
 
-# <a href="http://a2z.fhl.net/php/s.php?N=1&k=00539&m=" target="_blank">( אָמֵ֥ן ) 字意</a>
+# <a href="http://a2z.fhl.net/php/s.php?N=1&k=00539&m=" target="_blank">( אֱמָ֔ן ) 字意</a>
 
-# <a href="http://a2z.fhl.net/php/search.php?VERSION=unv&strongflag=1&TABFLAG=1&orig=2&keyword=00539" target="_blank">( אָמֵ֥ן ) 出現經文</a>
+# <a href="http://a2z.fhl.net/php/search.php?VERSION=unv&strongflag=1&TABFLAG=1&orig=2&keyword=00539" target="_blank">( אֱמָ֔ן ) 出現經文</a>
