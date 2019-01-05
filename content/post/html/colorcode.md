@@ -20,7 +20,7 @@ reward: false
 mathjax: false
 ---
 
-## ![RGB color](/images/rgb-color.png "RGB color")  
+## ![RGB color](/images/html-rgb-color.png "RGB color")  
 
 ## Color code table 
 

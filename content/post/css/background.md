@@ -101,7 +101,7 @@ border:1px #ccc solid;
 #DIV2{
 width:300px;
 height:200px;
-background-image:url(/images/b01.png);　//插入背景圖片
+background-image:url(/images/css-bg.png);　//插入背景圖片
 background-color:lightskyblue;　//淡藍色背景
 border:1px #ccc solid;
 }
