@@ -28,6 +28,18 @@ mathjax: true
 
 ### <a href="https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1" target="_blank">CBOL 新約 Parsing 系統</a>
 
+---
+
+## 以經釋經(原文講解)
+
+### <a href="http://www.bible.url.tw/bmzy-montrealccc-com/index.html" target="_blank">任不寐 牧師 (文字)</a>
+
+### <a href="https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ/playlists" target="_blank">任不寐 牧師 (影音)</a>
+
+---
+
+## 聖經原文
+
 ### <a href="http://www.chioulaoshi.org/BH/index.html" target="_blank">聖經希伯來文</a>
 
 ### <a href="http://hebrew.fhl.net/" target="_blank">希伯來文教室</a>
@@ -39,6 +51,10 @@ mathjax: true
 ### <a href="http://www.belovedhome.org/greekcourse.htm" target="_blank">希臘文初階課程</a>
 
 ### <a href="http://www.chioulaoshi.org/BGreek/index.html" target="_blank">新約希臘文</a>
+
+---
+
+## 詩歌
 
 ### <a href="http://www.hymncompanions.org/index2.php" target="_blank">荒漠甘泉  樂侶</a>
 
@@ -76,9 +92,13 @@ mathjax: true
 
 ### <a href="https://pdf.io/tw/" target="_blank">pdf 分割壓縮轉換</a>
 
+### <a href="https://sconverter.com/zh-tw/" target="_blank">YouTube 影音 下載</a>
+
 ### <a href="http://kej.tw/flvretriever/" target="_blank">YouTube 檔案 下載</a>
 
-### <a href="https://www.onlinevideoconverter.com/zh/youtube-converter" target="_blank">YouTube 下載/轉換</a>
+### <a href="https://convert-video-online.com/tw/" target="_blank">YouTube 影音/鏈結 下載/轉換</a>
+
+### <a href="https://www.aconvert.com/tw/video/" target="_blank">YouTube 檔案/鏈結 下載/轉換</a>
 
 ---
 
