@@ -28,6 +28,8 @@ mathjax: true
 
 ### <a href="https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1" target="_blank">CBOL 新約 Parsing 系統</a>
 
+### <a href="https://www.ccel.org/" target="_blank">the Christian Classics Ethereal Library (CCEL) 電子書舘</a>
+
 ---
 
 ## 以經釋經(原文講解)
