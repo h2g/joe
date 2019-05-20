@@ -96,6 +96,8 @@ mathjax: true
 
 ### <a href="https://sconverter.com/zh-tw/" target="_blank">YouTube 影音 下載</a>
 
+### <a href="https://www.yt2mp3.ws" target="_blank">YouTube 影音(轉mp3) 下載</a>
+
 ### <a href="http://kej.tw/flvretriever/" target="_blank">YouTube 檔案 下載</a>
 
 ### <a href="https://convert-video-online.com/tw/" target="_blank">YouTube 影音/鏈結 下載/轉換</a>
