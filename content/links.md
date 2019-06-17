@@ -88,10 +88,16 @@ Barabbas
 Beyond the next mountain
 [1/2](https://www.fuyin.tv/html/1836/25417.html) & [2/2](https://www.fuyin.tv/html/1836/25418.html)
 
+Candle in the dark
+[1/2](https://www.fuyin.tv/html/1814/25364.html) & [2/2](https://www.fuyin.tv/html/1814/25365.html)
+
 [Courageous](https://www.fuyin.tv/html/1257/49482.html)
 
 End of The Spear
 [1/2](https://www.fuyin.tv/html/1832/25410.html) & [2/2](https://www.fuyin.tv/html/1832/25411.html)
+
+Esther
+[1/2](https://www.fuyin.tv/html/1848/25438.html) & [2/2](https://www.fuyin.tv/html/1848/25439.html)
 
 [Fireproof](https://www.fuyin.tv/html/947/8168.html)
 
@@ -110,6 +116,8 @@ Letters to God
 
 The Grace Card
 [1/2](https://www.fuyin.tv/html/2446/36682.html) & [2/2](https://www.fuyin.tv/html/2446/36683.html)
+
+[WWJD - What would Jesus do ?](https://www.fuyin.tv/html/1189/13273.html)
 
 [Wycliffe](https://www.fuyin.tv/html/22/55.html)
 
