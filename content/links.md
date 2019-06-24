@@ -28,8 +28,6 @@ mathjax: true
 
 [CBOL 舊約 Parsing 系統](http://a2z.fhl.net/php/parsing.php?engs=Gen&chap=1&sec=1)
 
-[CBOL 舊約 Parsing 系統](http://a2z.fhl.net/php/parsing.php?engs=Gen&chap=1&sec=1)
-
 [CBOL 新約 Parsing 系統](https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1)
 
 [the Christian Classics Ethereal Library (CCEL) 電子書舘](https://www.ccel.org/)
@@ -82,21 +80,24 @@ mathjax: true
 
 [Amish Grace](https://www.fuyin.tv/html/2412/36018.html)
 
-Barabbas
+Barabbas -->
 [1/2](https://www.fuyin.tv/html/1815/25366.html) & [2/2](https://www.fuyin.tv/html/1815/25367.html)
 
-Beyond the next mountain
+Beyond the next mountain -->
 [1/2](https://www.fuyin.tv/html/1836/25417.html) & [2/2](https://www.fuyin.tv/html/1836/25418.html)
 
-Candle in the dark
+Candle in the dark -->
 [1/2](https://www.fuyin.tv/html/1814/25364.html) & [2/2](https://www.fuyin.tv/html/1814/25365.html)
+
+Chariots of fire -->
+[1/2](https://www.fuyin.tv/html/691/6788.html) & [2/2](https://www.fuyin.tv/html/691/6789.html)
 
 [Courageous](https://www.fuyin.tv/html/1257/49482.html)
 
-End of The Spear
+End of The Spear -->
 [1/2](https://www.fuyin.tv/html/1832/25410.html) & [2/2](https://www.fuyin.tv/html/1832/25411.html)
 
-Esther
+Esther -->
 [1/2](https://www.fuyin.tv/html/1848/25438.html) & [2/2](https://www.fuyin.tv/html/1848/25439.html)
 
 [Fireproof](https://www.fuyin.tv/html/947/8168.html)
@@ -109,12 +110,26 @@ Esther
 
 [Left Behind (Tribulation Force)](https://www.fuyin.tv/html/1188/12820.html)
 
-Letters to God
+Letters to God -->
 [1/2](https://www.fuyin.tv/html/1098/11074.html) & [2/2](https://www.fuyin.tv/html/1098/11075.html)
+
+Merry Christmas - 法文 joyeux noel -->
+[1/2](https://www.fuyin.tv/html/919/7800.html) & [2/2](https://www.fuyin.tv/html/919/7801.html)
+
+Revelation 1 - A Vision of the Apocalypse -->
+[1/2](https://www.fuyin.tv/html/189/1452.html) & [2/2](https://www.fuyin.tv/html/189/1453.html)
+
+Revelation 2 - O.N.E. -->
+[1/2](https://www.fuyin.tv/html/186/1447.html) & [2/2](https://www.fuyin.tv/html/186/1448.html)
+
+Revelation 3 - Tribulation -->
+[1/2](https://www.fuyin.tv/html/187/1449.html) & [2/2](https://www.fuyin.tv/html/187/1450.html)
+
+[Silent Night](https://www.fuyin.tv/html/920/7802.html)
 
 [The Case for Christ](https://www.fuyin.tv/html/2822/48495.html)
 
-The Grace Card
+The Grace Card -->
 [1/2](https://www.fuyin.tv/html/2446/36682.html) & [2/2](https://www.fuyin.tv/html/2446/36683.html)
 
 [WWJD - What would Jesus do ?](https://www.fuyin.tv/html/1189/13273.html)
