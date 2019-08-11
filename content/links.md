@@ -30,6 +30,8 @@ mathjax: true
 
 [CBOL 新約 Parsing 系統](https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1)
 
+[七十士譯本](https://biblehub.com/interlinear/apostolic/)
+
 [the Christian Classics Ethereal Library (CCEL) 電子書舘](https://www.ccel.org/)
 
 ---
@@ -149,6 +151,8 @@ The Grace Card -->
 [LibreOffice Portable](https://portableapps.com/apps/office/libreoffice_portable)
 
 [Apache OpenOffice Portable](https://portableapps.com/apps/office/openoffice_portable)
+
+[免費多媒體播放器 SMPlayer](https://www.smplayer.info/)
 
 ---
 
