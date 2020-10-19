@@ -26,7 +26,7 @@ deploy:
   repo: h2g/h2g.github.io
   local-dir: public # 靜態站點文件目錄
   target_branch: master # 欲將靜態站點文件, 發佈到目標分支
-  fqdn: joy.nctu.me # 如有自定義域名, 填此
+  fqdn:  # 如有自定義域名, 填此
   name: $GITHUB_USERNAME
   email: $GITHUB_EMAIL
   github-token: $GITHUB_TOKEN # 重要, 變數, 需要在 GitHub 上申請, 再配置到 Travis

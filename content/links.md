@@ -44,7 +44,7 @@ mathjax: true
 
 [任不寐 牧師 (影音)](https://www.youtube.com/channel/UC2MgB-upjmPWAP_p7hdk_MQ/playlists)
 
-[CSMP 聖經課程目錄](http://lutheran.cn/csmp-index/)
+[CSMP 聖經課程公開資料](http://csmp.hisword.cn/#/csmp-info)
 
 ---
 
@@ -167,6 +167,8 @@ The Grace Card -->
 [favicon 製作 - 16,32,48,64,128](http://tw.faviconico.org/)
 
 [檔案轉換-影,音,圖,文,ico](https://www.aconvert.com/tw/)
+
+[檔案轉換 - webp to jpg](https://www.aconvert.com/tw/image/webp-to-jpg/#)
 
 [影音分割合併轉換1](https://mergeaudio.online)
 
